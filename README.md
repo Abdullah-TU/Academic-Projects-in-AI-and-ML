@@ -64,24 +64,6 @@ This project follows a structured protocol:
 
 ---
 
-## 🖥️ Repository Structure
-
-- **notebooks/**: Contains Jupyter Notebooks for exploratory data analysis and training experiments.
-- **data/**: Directory for training and testing datasets.
-- **models/**: Contains PyTorch model implementation.
-- **results/**: Stores logs, metrics, and output predictions.
-- **scripts/**: Python scripts for training and evaluation workflows.
-
----
-
-## 🚀 Future Work
-
-- **🌟 TensorFlow Implementation**: Add an equivalent implementation for cross-framework comparison.
-- **📈 Advanced Techniques**: Incorporate transfer learning with pretrained models.
-- **🔍 Performance Tuning**: Experiment with hyperparameter optimization and data augmentation.
-
----
-
 ## 📑 References
 
 - FER-2013 Dataset: [Kaggle Link](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
