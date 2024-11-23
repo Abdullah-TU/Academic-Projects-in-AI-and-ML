@@ -70,10 +70,3 @@ This project follows a structured protocol:
 - PyTorch Documentation: [PyTorch.org](https://pytorch.org/)
 
 ---
-
-## 🏁 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/emotion-detection
-   cd emotion-detection
