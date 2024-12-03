@@ -10,7 +10,7 @@ Welcome to the **Emotion Detection** project! This repository contains a compreh
 
 The **FER-2013 dataset** is a gray-scale image dataset of faces categorized into seven emotion classes:
 1. Happiness 😊  
-2. Neutral
+2. Neutral 😐  
 3. Sadness
 4. Anger
 5. Surprise
