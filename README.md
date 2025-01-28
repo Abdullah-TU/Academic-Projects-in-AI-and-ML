@@ -10,6 +10,7 @@ Welcome to the **Emotion Detection** project! This repository contains a compreh
 
 The **FER-2013 dataset** is a gray-scale image dataset of faces categorized into seven emotion classes:
 1. Happiness 😊  
+2. Neutral 😐  
 
 
 The dataset consists of **35,685 examples**, each 48x48 pixels in size, split into training and testing sets. The aim is to train a deep learning model to classify these emotions accurately.
