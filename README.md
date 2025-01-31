@@ -18,6 +18,8 @@ The **FER-2013 dataset** is a gray-scale image dataset of faces categorized into
 7. Fear 😨  
 
 The dataset consists of **35,685 examples**, each 48x48 pixels in size, split into training and testing sets. The aim is to train a deep learning model to classify these emotions accurately.
+- **Key Libraries**:
+
 
 ---
 
