@@ -22,7 +22,7 @@ The dataset consists of **35,685 examples**, each 48x48 pixels in size, split in
   - NumPy, Pandas
   - Torch, Torchvision
   - Pytorch-Lightning
-
+  - Torchmetrics
 
 ---
 
