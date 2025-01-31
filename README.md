@@ -26,13 +26,6 @@ The dataset consists of **35,685 examples**, each 48x48 pixels in size, split in
 - **Framework**: PyTorch-Lightning
 - **Programming Paradigm**: Object-Oriented Programming (OOP)
 - **Visualization**: TensorBoard and Matplotlib
-- **Key Libraries**:
-  - NumPy, Pandas
-  - Torch, Torchvision
-  - Pytorch-Lightning
-  - Torchmetrics
-  - OpenCV
-  - PIL
 
 ---
 
